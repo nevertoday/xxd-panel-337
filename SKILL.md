@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-337
-description: "Create XXD Panel 337 raster artwork: a faithful photograph paired with one post-internet lo-fi fragment, a pixel stencil inside a quiet specimen frame. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-337 or asks for this 像素残片 style."
+description: "XXD Panel 337｜Pixel Fragment: keeps the photo and compresses its subject into one small post-internet lo-fi symbol, like street-art debris dug out of the old web and reframed — a rough black pixel-stencil silhouette with jagged raster edges and slight scan or print flaws, set small inside a plain square or rectangular specimen frame in wide silent whitespace, mostly grey, charcoal, warm grey and old white with one tiny off-colour accent such as faded red or dull yellow, and a few sparse interface words, abbreviations or number fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-337 or asks for a lo-fi pixel stencil, retro GUI relic, post-internet emblem or anti-polish mark from a photo."
 ---
 
 # XXD Panel 337

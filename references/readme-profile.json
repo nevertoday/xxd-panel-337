@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 337｜Pixel Fragment: keeps the photo and compresses its subject into one small post-internet lo-fi symbol, like street-art debris dug out of the old web and reframed — a rough black pixel-stencil silhouette with jagged raster edges and slight scan or print flaws, set small inside a plain square or rectangular specimen frame in wide silent whitespace, mostly grey, charcoal, warm grey and old white with one tiny off-colour accent such as faded red or dull yellow, and a few sparse interface words, abbreviations or number fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-337 or asks for a lo-fi pixel stencil, retro GUI relic, post-internet emblem or anti-polish mark from a photo.",
+  "short_description": "像素残片：把照片主体收成标本框里一块黑色像素模板剪影，灰调中只留一点异色",
+  "zh-CN": {
+    "name": "像素残片",
+    "tagline": "把照片主体收成标本框里一块像从旧互联网挖出来的低保真像素残片。",
+    "look": "照片里的人物、动作或关键物件被压成粗粝的黑色块面和像素模板剪影，边缘有锯齿、栅格断裂和一点扫描、打印的瑕疵。这个小符号放在一个克制的方框或矩形边界里，像陈列的标本，四周是大面积沉默的留白。颜色以灰、炭黑、暖灰和旧白为主，只留一处很小的异常色，比如褪色红、暗粉或钝黄，常落在一束花、一个物件或一簇像素上。边角可以有几个过时界面词、缩写或数字碎片。",
+    "traits": [
+      "后网络低保真",
+      "像素模板",
+      "界面残片",
+      "标本框",
+      "沉默留白"
+    ],
+    "good": [
+      "轮廓强、带点态度的人物姿态：戴兜帽的侧影、抱臂站立、举着花的人",
+      "带反差的小细节：硬朗的人拿着一枝花、黑衣上一点红、旧电脑旁的猫",
+      "想做成冷感头像、专辑小图或展览式标记的照片"
+    ],
+    "poor": [
+      "必须看清五官、文字或细节的照片：证件照、菜单、产品说明图",
+      "色彩丰富、热闹的场景，大部分颜色会被压成灰",
+      "想要可爱像素游戏风、赛博朋克霓虹、光滑 App 图标或完整像素插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Pixel Fragment",
+    "tagline": "Compresses the subject of your photo into a lo-fi pixel fragment, framed like a specimen dug out of the old internet.",
+    "look": "The person, gesture or key object is pressed into rough black blocks and a pixel-stencil silhouette, with jagged edges, broken raster steps and slight scan or print flaws. This small symbol sits inside a plain square or rectangular border like a specimen on display, surrounded by wide, silent empty space. Colour is mostly grey, charcoal, warm grey and old white, with one tiny off-note such as faded red, dusty pink or dull yellow, often on a flower, an object or a cluster of pixels. A few obsolete interface words, abbreviations or number fragments may sit at the edges.",
+    "traits": [
+      "Post-internet lo-fi",
+      "Pixel stencil",
+      "Interface debris",
+      "Specimen frame",
+      "Silent whitespace"
+    ],
+    "good": [
+      "Strong-outline poses with some attitude: a hooded profile, someone standing with arms crossed, a person holding flowers",
+      "Small details with contrast: a tough-looking person holding one flower, a spot of red on black clothes, a cat beside an old computer",
+      "Photos you want as a cool-toned avatar, small album image or exhibition-style mark"
+    ],
+    "poor": [
+      "Photos where faces, text or detail must stay legible: ID photos, menus, product instructions",
+      "Colourful, busy scenes, since most colour is pressed down to grey",
+      "Requests for cute pixel game art, cyberpunk neon, a glossy app icon or a full pixel illustration"
+    ]
+  },
+  "ja": {
+    "name": "ピクセルの残片",
+    "tagline": "写真の主役を、古いインターネットから掘り出して標本箱に収めたようなローファイなピクセル片にします。",
+    "look": "人物、しぐさ、要となる物が、ざらついた黒いベタ面とピクセルのステンシル風シルエットに押し込まれます。縁にはギザギザやラスターの途切れ、スキャンや印刷のわずかな傷が残ります。この小さな記号は控えめな正方形や長方形の枠に、展示された標本のように収まり、周りには広く沈黙した余白があります。色はグレー、チャコール、ウォームグレー、古びた白が中心で、褪せた赤、くすんだピンク、鈍い黄色などの異色がごく小さく一か所だけ、花束や物やピクセルの塊に置かれます。端には古いインターフェースの言葉、略号、数字の断片がいくつか入ることがあります。",
+    "traits": [
+      "ポストインターネットのローファイ",
+      "ピクセルステンシル",
+      "UI の残骸",
+      "標本の枠",
+      "沈黙の余白"
+    ],
+    "good": [
+      "輪郭が強く少し態度のあるポーズ：フードをかぶった横顔、腕組みで立つ人、花を掲げる人",
+      "対比のある小さなディテール：強面の人が持つ一輪の花、黒い服の一点の赤、古いパソコンの横の猫",
+      "クールなアイコン、アルバムの小さな画像、展示風のマークにしたい写真"
+    ],
+    "poor": [
+      "顔立ち、文字、細部を読み取れるようにしたい写真：証明写真、メニュー、商品の説明画像",
+      "色数が多く賑やかな場面（ほとんどの色がグレーに押し込まれます）",
+      "かわいいピクセルゲーム風、サイバーパンクのネオン、つるっとしたアプリアイコン、全面のピクセルイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "픽셀 잔해",
+    "tagline": "사진 속 주인공을 오래된 인터넷에서 파낸 뒤 표본 상자에 넣은 듯한 로파이 픽셀 조각으로 만듭니다.",
+    "look": "인물, 몸짓, 핵심 사물이 거친 검은 면과 픽셀 스텐실 실루엣으로 압축되고, 가장자리에는 계단 모양 톱니, 끊어진 래스터, 약간의 스캔이나 인쇄 흠이 남습니다. 이 작은 기호는 절제된 정사각형이나 직사각형 테두리 안에 전시된 표본처럼 놓이고, 주변은 넓고 침묵하는 여백입니다. 색은 회색, 숯검정, 따뜻한 회색, 바랜 흰색이 중심이고, 바랜 빨강, 탁한 분홍, 둔한 노랑 같은 이질적인 색이 아주 작게 한 곳에만, 꽃이나 사물이나 픽셀 덩어리에 놓입니다. 가장자리에 낡은 인터페이스 단어, 약자, 숫자 조각 몇 개가 들어갈 수 있습니다.",
+    "traits": [
+      "포스트 인터넷 로파이",
+      "픽셀 스텐실",
+      "인터페이스 잔해",
+      "표본 틀",
+      "침묵의 여백"
+    ],
+    "good": [
+      "윤곽이 강하고 약간의 태도가 있는 자세: 후드 쓴 옆모습, 팔짱 끼고 선 사람, 꽃을 든 사람",
+      "대비가 있는 작은 디테일: 거친 인상의 사람이 든 꽃 한 송이, 검은 옷의 빨간 점 하나, 오래된 컴퓨터 옆 고양이",
+      "차가운 느낌의 프로필, 앨범 속 작은 이미지, 전시풍 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "이목구비, 글자, 세부가 읽혀야 하는 사진: 증명사진, 메뉴판, 제품 설명 이미지",
+      "색이 많고 북적이는 장면(대부분의 색이 회색으로 눌립니다)",
+      "귀여운 픽셀 게임풍, 사이버펑크 네온, 매끈한 앱 아이콘, 화면 가득한 픽셀 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شظية البكسل",
+    "tagline": "يضغط العنصر الرئيسي في صورتك إلى شظية بكسل منخفضة الدقة، مؤطّرة كعيّنة استُخرجت من الإنترنت القديم.",
+    "look": "يُختزل الشخص أو الإيماءة أو الشيء الأساسي في مساحات سوداء خشنة وظلّ على هيئة قالب بكسلي، بحواف مسنّنة ودرجات شبكية متقطّعة وعيوب طفيفة كأثر المسح الضوئي أو الطباعة. يوضع هذا الرمز الصغير داخل إطار مربع أو مستطيل بسيط كعيّنة معروضة، يحيط به فراغ واسع صامت. الألوان في معظمها رمادي وفحمي ورمادي دافئ وأبيض قديم، مع لمسة لونية شاذة صغيرة واحدة مثل الأحمر الباهت أو الوردي المغبرّ أو الأصفر الكابي، تقع غالباً على زهرة أو شيء أو كتلة من البكسلات. قد تظهر عند الحواف كلمات قليلة من واجهات قديمة أو اختصارات أو شظايا أرقام.",
+    "traits": [
+      "ما بعد الإنترنت منخفض الدقة",
+      "قالب بكسلي",
+      "بقايا واجهة",
+      "إطار عيّنة",
+      "فراغ صامت"
+    ],
+    "good": [
+      "وضعيات قوية الحدود فيها موقف: وجه جانبي تحت قلنسوة، شخص واقف عاقد ذراعيه، شخص يحمل زهوراً",
+      "تفاصيل صغيرة فيها تضاد: شخص صارم الملامح يحمل زهرة واحدة، نقطة حمراء على ثياب سوداء، قطة بجانب حاسوب قديم",
+      "صور تريدها صورة شخصية باردة الطابع أو صورة صغيرة لألبوم أو علامة على طريقة المعارض"
+    ],
+    "poor": [
+      "صور يجب أن تبقى فيها الملامح أو الكتابة أو التفاصيل مقروءة: صور الهوية، قوائم الطعام، تعليمات المنتجات",
+      "مشاهد ملوّنة مزدحمة، إذ يُضغط معظم اللون إلى الرمادي",
+      "طلب فن ألعاب بكسلي لطيف أو نيون سايبربانك أو أيقونة تطبيق لامعة أو رسم بكسلي كامل"
+    ]
+  }
+}
